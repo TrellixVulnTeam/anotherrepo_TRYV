@@ -1,0 +1,24 @@
+{
+  "name": "nestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasSalom/anotherrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasSalom/anotherrepo/issues"
+  },
+  "homepage": "https://github.com/EliasSalom/anotherrepo#readme",
+  "dependencies": {
+    "commitizen": "^4.2.4",
+    "lerna": "^5.0.0"
+  }
+}
